@@ -5,6 +5,6 @@ don't ask me why it's not working it did for me
 you get what you get and you don't get upset
 
 # READ THIS!!!
-you might notice that when you use the touchscreen the trackpad will become laggy
-i have no clue why this happen and have chose to disable my touchscreen in the bios
+you might notice that when you use the touchscreen the touchpad will become laggy until you restart with reopen windows when you log back in unchecked
+i have no clue why this happens and have chose to just disable my touchscreen in the bios so it can't affect the touchpad
 if you find out how to fix this please tell me because even though i don't use it, it'd be nice to have
