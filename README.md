@@ -11,3 +11,5 @@ Currently running the latest efi results in the MacOS startup error, i'm working
 you might notice that when you use the touchscreen the touchpad will become laggy until you restart with reopen windows when you log back in unchecked
 i have no clue why this happens and have chose to just disable my touchscreen in the bios so it can't affect the touchpad
 if you find out how to fix this please tell me because even though i don't use it, it'd be nice to have
+# HDMI Issues
+my install is broken rn but i thiiiiiiiiiiink going here: https://github.com/xzhih/one-key-hidpi might fix the pink screen issue
