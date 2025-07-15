@@ -4,6 +4,9 @@ check if it works, btw this is for the i5 not the i7 idk if there's a difference
 don't ask me why it's not working it did for me
 you get what you get and you don't get upset
 
+# Tahoe
+Up to date as of 15/07/25
+Currently running the latest efi results in the MacOS startup error, i'm working to resolve this right now :P
 # READ THIS!!!
 you might notice that when you use the touchscreen the touchpad will become laggy until you restart with reopen windows when you log back in unchecked
 i have no clue why this happens and have chose to just disable my touchscreen in the bios so it can't affect the touchpad
