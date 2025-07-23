@@ -554,7 +554,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
-                    <string></string>
+                    <string>Contents/MacOS/USBMap</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -572,7 +572,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
-                    <string></string>
+                    <string>Contents/MacOS/USBPorts</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
@@ -1341,23 +1341,23 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>FFFFFFFFFFFF</string>
+                <string>C02107501GUP8PG1M</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>////////</data>
+                <data>H4KJZN9g</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro16,1</string>
+                <string>MacBookPro16,2</string>
                 <key>SystemSerialNumber</key>
-                <string>FFFFFFFFFFFF</string>
+                <string>C02F8WY3ML7H</string>
                 <key>SystemUUID</key>
-                <string>FFFFFFFFFFFF</string>
+                <string>37B59EB6-9DDC-4E36-8523-56D3F0EBDA0B</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
